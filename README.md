@@ -1,8 +1,7 @@
-﻿# Food-Ordering-App
 # URBAN-BITE
 
 ﻿# Food-Ordering-App
- ### Food ordering application - Bachelor Project
+ ### URBAN-BITE 
 
 "Delivering code like you deliver food – hot, fast, and reliable!. Built with Spring Boot, MySQL, REST APIs, and Spring Data JPA — this project replaces verbose JDBC/Servlet code with powerful annotations like @RestController, @Autowired, @Repository, and @Entity, enabling faster development, better layering, and seamless database interaction."
 
